@@ -1,9 +1,9 @@
-title: cyfanc
+title: ygh
 description: "record some code snippets"
 author:
-  name: "cyfanc"
+  name: "ygh"
   email: "test@test.com"
-  url: "https://cyfanc.github.io"
+  url: "https://yghcoming.github.io"
 
 baseurl: /
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "cyfanc"
+owner : "ygh"
 year : "2022"
